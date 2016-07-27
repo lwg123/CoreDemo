@@ -35,7 +35,6 @@
 //    [self.view addSubview:imageView];
     
       [self initLayout];
-    NSLog(@"上传成功了");
 }
 
 /***********************---------------第一部分Core Image框架------------------------------------*/
